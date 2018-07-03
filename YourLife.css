@@ -1,0 +1,9 @@
+body {
+    background-image: 
+    url("computer.jpg"),
+    url("door.jpg"), url("wallpaper.jpg");
+    background-position:  left top, right center, center;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 20%, 20%, 100%;
+    padding: 15px;
+}
